@@ -11,6 +11,7 @@
 - Build Modules:    `-`
 ------------------------------
 
+## yarn dev works
 ## Error with yarn generate
 ```
 Nuxt CLI v3.0.0-27499173.3e7d6da                                                22:13:19
