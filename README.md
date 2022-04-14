@@ -1,29 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Nuxi info
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
-
-## Setup
-
-Make sure to install the dependencies
-
-```bash
-yarn install
-```
-
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+------------------------------
+- Operating System: `Windows_NT`
+- Node Version:     `v14.17.4`
+- Nuxt Version:     `3.0.0-27499173.3e7d6da`
+- Package Manager:  `yarn@1.22.11`
+- Builder:          `vite`
+- User Config:      `-`
+- Runtime Modules:  `-`
+- Build Modules:    `-`
+------------------------------
