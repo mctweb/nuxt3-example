@@ -11,6 +11,7 @@
 - Build Modules:    `-`
 ------------------------------
 
+## yarn dev works
 ## Error with yarn generate
 ```
  ERROR  Only file and data URLs are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'c:'
